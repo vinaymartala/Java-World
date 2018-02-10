@@ -1,0 +1,5 @@
+tutorial link :
+http://tutorials.jenkov.com/java-util-concurrent/executorservice.html
+
+interview questions link:
+http://www.baeldung.com/java-concurrency-interview-questions
